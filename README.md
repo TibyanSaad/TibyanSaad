@@ -24,7 +24,7 @@
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-D8A7B1?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-F4C2C2?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-F4C2C2?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-F4C2C2?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-CDB4DB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
