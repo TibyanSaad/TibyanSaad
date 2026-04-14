@@ -3,7 +3,7 @@
 💻 Entry-Level Computer Engineer  
 ☕ Currently learning Java & strengthening core programming skills  
 🏆 Co-author of an IEEE Conference Paper  
-✨ Passionate about building clean, efficient, and user-friendly solutions  
+✨ Passionate about building maintainable, efficient, and user-friendly solutions  
 
 ---
 
